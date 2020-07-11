@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Amit is engineer at heart. He is passionate about front end technologies . An expert react,  react native developer. He is a full-stack engineer with 15 years of total experience in IT and worked on multiple technologies stake like PHP, Microsoft and Java and played multiple roles.  He has spent the past seven years doing web and mobile apps. He has built dozens of applications which is live on app store and used by millions of users. Amit is an extremely skilled programmer, takes pride in writing good code and follows best practices and standards.
+Amit is engineer at heart and full stake developer by profession. He is working on  react,  react native. 
 
 <!--
 **amitntrivedi/amitntrivedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
