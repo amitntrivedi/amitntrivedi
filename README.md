@@ -3,6 +3,8 @@
 Amit is engineer at heart and full stake developer by profession. He is working on  react,  react native. 
 
 You can follow me on   <a href="https://www.linkedin.com/in/amitntrivedi/">  LinkedIn </a>, if that's your thing.
+
+Let me know if I can help you with your project. 
 <!--
 **amitntrivedi/amitntrivedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
